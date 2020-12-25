@@ -17,10 +17,12 @@
 
 <br/>
 
+<!-- 
 ### Core skills
 
-- 🖥️  Languages -- ⭐ Python ⭐ Java ⭐ Javascript
-- 💪  Strengths -- ⭐ Distributed Data ⭐ ETL ⭐ Big Data ⭐ Apache Airflow ⭐ Apache Spark ⭐ RDBMS ⭐ DevOps
+- 🖥️. Languages -- ⭐ Python ⭐ Java ⭐ Javascript
+- 💪  Strengths -- ⭐ Distributed Data ⭐ ETL ⭐ Big Data ⭐ Apache Airflow ⭐ Apache Spark ⭐ RDBMS ⭐ DevOps 
+-->
 
 
 [medium]: http://sairamkrish.medium.com
