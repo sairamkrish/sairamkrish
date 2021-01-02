@@ -1,8 +1,8 @@
 [![Header](./images/profile-header-banner.jpg)][website]
 
-### Hi there, I'm Sairam Krish - aka Sairam Krishnamurthy 👋
+### Hi there, I'm Sairam Krish 👋
 
-#### I'm a Husband, Father, Programmer and a Student !!
+#### I'm a Passionate Programmer working on Data engineering !!
 
 - 🌱  I’m currently working on improving data science solutions by bringing best practices to data engineering.
 - 👯  I collaborate with data engineers and data scientist to solve complex data engineering problems.
