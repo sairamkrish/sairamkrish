@@ -5,7 +5,8 @@
 #### I'm a Passionate Programmer working on Data engineering !!
 
 - 🌱  I’m currently working on improving data science solutions by bringing best practices to data engineering.
-- 👯  I collaborate with data engineers and data scientist to solve complex data engineering problems.
+- 🌱  A strong believer in agile methodology and passionate about Test Driven Development, quick feedback cycles and continuous delivery style of development.
+- 👯  I collaborate with data scientist to solve complex data engineering problems.
 - 🥅  2021 Goals: Expertise in data engineering focused on big data supply chain optimization algorithms.
 
 ### Connect with me:
